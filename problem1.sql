@@ -5,7 +5,7 @@
 -- In other words, group the users by the number of tweets they posted in 2022 
 -- and count the number of users in each group.
 
---GIVEN
+-- GIVEN
 CREATE TABLE tweets (
 tweet_id INT,
 user_id INT,
@@ -23,3 +23,4 @@ GROUP BY user_id)
 SELECT tweets_per_user AS tweet_bucket, count(user_id) AS num_users
 FROM CTE1
 GROUP BY tweets_per_user;
+
