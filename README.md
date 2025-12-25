@@ -2,16 +2,11 @@
 This repository contains **seven real SQL interview questions** from companies like LinkedIn, Twitter, Facebook, and Tesla.  
 Each question includes a problem statement along with a proposed solution. Found an error or a better approach? Leave a comment or open an issue so it can be reviewed and improved!
 
----
-
 ## 📋 Questions
 Each question is organized in its own file or section, including:
-
 - Problem statement
 - Sample data (if applicable)
 - Proposed SQL solution
-
----
 
 ## 🚀 How to Use
 
@@ -19,13 +14,9 @@ Each question is organized in its own file or section, including:
 2. Try solving them on your own before checking the provided solution.
 3. Compare your approach with the proposed solution to improve your SQL skills.
 
----
-
 ## 📜 License
 
 This project is open-source and free to use. Feel free to share and adapt the content for educational purposes.
-
----
 
 ## ⭐ Support
 
