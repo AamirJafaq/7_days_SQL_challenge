@@ -24,4 +24,3 @@ SELECT page_id
 FROM all_pages
 WHERE liked_date IS NULL
 ORDER BY page_id ASC;
--- pages with id 32728 and 20701 got zero likes.
