@@ -1,0 +1,13 @@
+employee_id,employee_name,salary,department,manager_id
+1,Ankit,140000,IT,NULL
+2,Rahul,150000,HR,NULL
+3,Meera,160000,Finance,NULL
+4,Aman,145000,Sales,NULL
+5,Olivia,90000,IT,1
+6,Noor,80000,IT,1
+7,Shiva,170000,IT,1
+8,Aakash,95000,HR,2
+9,Ayesha,155000,HR,2
+10,Kapil,55000,HR,2
+11,Rani,125000,Finance,3
+12,Kunal,110000,Sales,4
