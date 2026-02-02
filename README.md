@@ -6,7 +6,7 @@ Each question includes a problem statement along with a proposed solution. Found
 ### 📋 Questions
 Each question is organized in its own file or section, including:
 - Problem statement
-- Sample data (CSV file)
+- Sample data (CSV file) or table scripts
 - Proposed SQL solution
 
 ### 🚀 How to Use
