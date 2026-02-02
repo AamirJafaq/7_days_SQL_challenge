@@ -1,11 +1,6 @@
 -- Amazon Interview Questions
--- Q.1 List out the department wise maximum salary, minimum salary, average salary of the employees.
--- Q.2 List out employee having the third highest salary.
--- Q.3 List out the department having at least four employees.
--- Q.4 Find out the employees who earn greater than the average salary for their department.
-=======================================================================================================
 
-	-- Create department table
+-- Create department table
 DROP TABLE IF EXISTS department;
 CREATE TABLE department (
     Department_ID INT PRIMARY KEY,
@@ -107,5 +102,6 @@ FROM emp_fact)
 SELECT emp_name, salary, department_id 
 FROM depart_salaries
 WHERE salary> avg_depart_salary;
+
 
 
